@@ -1,0 +1,28 @@
+{
+  "name": "ngyuki",
+  "version": "0.0.1",
+  "description": "ngyuki npm example",
+  "keywords": ["example"],
+  "homepage": "https://github.com/ngyuki/example-node-npm",
+  "bugs": {
+    "url": "https://github.com/ngyuki/example-node-npm"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Toshiyuki Goto",
+    "email": "ngyuki.ts@gmail.com",
+    "url": "https://github.com/ngyuki/"
+  },
+  "main": "lib/main.js",
+  "bin": {
+    "ngyuki": "bin/ngyuki.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ngyuki/example-node-npm.git"
+  },
+  "dependencies": {
+    "colors": "~0.6.2"
+  },
+  "devDependencies": {}
+}
