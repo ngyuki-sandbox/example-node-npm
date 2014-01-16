@@ -1,11 +1,11 @@
 {
   "name": "ngyuki",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ngyuki npm example",
   "keywords": ["example"],
   "homepage": "https://github.com/ngyuki/example-node-npm",
   "bugs": {
-    "url": "https://github.com/ngyuki/example-node-npm"
+    "url": "https://github.com/ngyuki/example-node-npm/issues"
   },
   "license": "MIT",
   "author": {
